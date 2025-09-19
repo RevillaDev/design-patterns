@@ -1,6 +1,6 @@
-package org.reer.designpatterns.factorymethod.creator;
+package org.reer.designpatterns.creational.factorymethod.creator;
 
-import org.reer.designpatterns.factorymethod.concrete.Transport;
+import org.reer.designpatterns.creational.factorymethod.concrete.Transport;
 
 public abstract class Logistics {
 

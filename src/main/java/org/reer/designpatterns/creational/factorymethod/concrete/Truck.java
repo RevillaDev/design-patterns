@@ -1,4 +1,4 @@
-package org.reer.designpatterns.factorymethod.concrete;
+package org.reer.designpatterns.creational.factorymethod.concrete;
 
 public class Truck implements Transport {
     @Override

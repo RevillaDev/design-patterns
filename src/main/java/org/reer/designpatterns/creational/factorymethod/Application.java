@@ -1,8 +1,8 @@
-package org.reer.designpatterns.factorymethod;
+package org.reer.designpatterns.creational.factorymethod;
 
-import org.reer.designpatterns.factorymethod.creator.Logistics;
-import org.reer.designpatterns.factorymethod.creator.RoadLogistics;
-import org.reer.designpatterns.factorymethod.creator.SeaLogistics;
+import org.reer.designpatterns.creational.factorymethod.creator.Logistics;
+import org.reer.designpatterns.creational.factorymethod.creator.RoadLogistics;
+import org.reer.designpatterns.creational.factorymethod.creator.SeaLogistics;
 
 import java.util.Arrays;
 import java.util.Scanner;
